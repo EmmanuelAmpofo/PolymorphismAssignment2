@@ -12,7 +12,8 @@ public class Firm {
 
 class Staff {
 	staffMember [] stafflist;
-	
+	//just added some comments for practice
+
 	public Staff() {
 		stafflist = new staffMember[8];
 		
@@ -175,6 +176,7 @@ class Commission extends Hourly{
 		return "Commission [totalSales=" + totalSales + ", comRate=" + comRate + "]";
 	}
 }
+//end of program
 	
 	
 	
